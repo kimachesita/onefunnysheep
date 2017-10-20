@@ -1,0 +1,29 @@
+{
+  "name": "onefunnysheep",
+  "version": "1.0.0",
+  "description": "A lone sheep's hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimachesita/onefunnysheep.git"
+  },
+  "keywords": [
+    "one",
+    "funny",
+    "sheep"
+  ],
+  "author": "kimachesita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimachesita/onefunnysheep/issues"
+  },
+  "homepage": "https://github.com/kimachesita/onefunnysheep#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
